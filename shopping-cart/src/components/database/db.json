@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "title": "Jordan Proto Lyte",
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/g/Jv8AAOSwMv9hQpu3/s-l960.webp",
+      "collection": "Running Collection",
+      "description": "Lightweight and breathable, perfect for running.",
+      "availableColors": ["Red", "Black", "Orange"],
+      "price": 245,
+      "productID": 0
+    },
+
+    {
+      "title": "Nike Air Zoom Pegasus",
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3cfa0374-d35c-4083-a466-35c5ce5e8eaa/pegasus-41-mens-road-running-shoes-7S90QB.png",
+      "collection": "Running Collection",
+      "description": "Designed for comfort and performance.",
+      "availableColors": ["Blue", "White", "Grey"],
+      "price": 180,
+      "productID": 1
+    },
+    {
+      "title": "Adidas Ultraboost",
+      "imageUrl": "",
+      "collection": "Running Collection",
+      "description": "Boost technology for ultimate energy return.",
+      "availableColors": ["Black", "White", "Green"],
+      "price": 200,
+      "productID": 2
+    },
+    {
+      "title": "New Balance Fresh Foam",
+      "imageUrl": "",
+      "collection": "Running Collection",
+      "description": "Fresh Foam midsole cushioning for a plush feel.",
+      "availableColors": ["Red", "Black", "Blue"],
+      "price": 150,
+      "productID": 3
+    },
+    {
+      "title": "Asics Gel-Kayano",
+      "imageUrl": "",
+      "collection": "Running Collection",
+      "description": "High-performance running shoes with GEL technology.",
+      "availableColors": ["Yellow", "Black", "Orange"],
+      "price": 160,
+      "productID": 4
+    },
+    {
+      "title": "Puma Ignite",
+      "imageUrl": "",
+      "collection": "Running Collection",
+      "description": "Engineered for maximum speed and comfort.",
+      "availableColors": ["Red", "Grey", "Black"],
+      "price": 130,
+      "productID": 5
+    },
+    {
+      "title": "Brooks Ghost",
+      "imageUrl": "",
+      "collection": "Running Collection",
+      "description": "Smooth transitions and soft cushioning for runners.",
+      "availableColors": ["Blue", "Black", "White"],
+      "price": 120,
+      "productID": 6
+    },
+    {
+      "title": "Under Armour HOVR",
+      "imageUrl": "",
+      "collection": "Running Collection",
+      "description": "HOVR technology provides a zero-gravity feel.",
+      "availableColors": ["Green", "Black", "Orange"],
+      "price": 140,
+      "productID": 7
+    },
+    {
+      "title": "Saucony Kinvara",
+      "imageUrl": "",
+      "collection": "Running Collection",
+      "description": "Minimalist design with responsive cushioning.",
+      "availableColors": ["Red", "Yellow", "Black"],
+      "price": 110,
+      "productID": 8
+    },
+    {
+      "title": "Mizuno Wave Rider",
+      "imageUrl": "",
+      "collection": "Running Collection",
+      "description": "Wave technology for smooth and stable rides.",
+      "availableColors": ["Black", "White", "Blue"],
+      "price": 150,
+      "productID": 9
+    }
+  ]
+}
